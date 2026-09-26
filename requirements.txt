@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-multipart
+paddleocr
+paddlepaddle
+passporteye
+mrz
+numpy
+opencv-python-headless
